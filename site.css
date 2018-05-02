@@ -115,6 +115,13 @@ footer {
   font-size: 10px;
   color: #808080!important;
 }
+@media screen and (max-width: 768px) and (min-width: 480px){
+body > header > img{
+   width: 569px;
+  }
+body > header{
+   height: 66px!important;
+} 
 .slider{
     overflow: hidden;
     height: 350px;

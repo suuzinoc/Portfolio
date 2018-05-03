@@ -215,3 +215,11 @@ footer {
     float:right;
     border:solid;
  }
+@media screen and (max-width: 768px) and (min-width: 480px){
+body > header > img{
+   width: 569px;
+  }
+body > header{
+   height: 66px!important;
+  } 
+}    

@@ -121,7 +121,8 @@ body > header > img{
   }
 body > header{
    height: 66px!important;
-} 
+  } 
+}    
 .slider{
     overflow: hidden;
     height: 350px;

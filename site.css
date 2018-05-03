@@ -219,6 +219,9 @@ footer {
 body > header > img{
    width:951px;
   }
+  body > div:nth-child(1) > header > img {
+   width:951px;
+   }   
 body > header{
    height:163px!important;
   }

@@ -221,5 +221,8 @@ body > header > img{
   }
 body > header{
    height:163px!important;
-  } 
+  }
+body > div:nth-child(1) > header{
+   height:163px!important; 
+  }
 )   

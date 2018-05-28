@@ -328,3 +328,28 @@ div.projects1:nth-child(5) > h3:nth-child(1){
     margin-right: auto;
     text-decoration:none;
 }
+@media screen and (min-width: 480px) and (max-width: 1160px){
+    .projectimg{
+      width:500px;
+    }
+    .compimg{
+      width:500px;
+    }
+    .handimg{
+      width:500px;
+    }
+}
+@media screen and (max-width: 769px){
+    .projectimg{
+      width:300px;
+    }
+    .dddimg{
+      width:300px;
+    }
+    .compimg{
+      width:300px;
+    }
+    .handimg{
+      width:300px;
+    }
+}
